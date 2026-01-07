@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# IPython
+.ipynb_checkpoints
+
+# Virtual environment
+.env
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# logs
+*.log
+
+# Ignore personal secrets
+secrets.json
+
+# keep models and results (do not ignore)
+# models/
+# results/

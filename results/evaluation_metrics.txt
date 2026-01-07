@@ -1,0 +1,9 @@
+Evaluation metrics:
+silhouette: 0.2137299633550709
+calinski_harabasz: 363.1813083084194
+davies_bouldin: 1.8710996226749597
+adjusted_rand: 0.0432763315647142
+adjusted_mutual_info: 0.0353912593666423
+purity: 0.46716697936210133
+n_samples: 1599
+n_clusters: 2
